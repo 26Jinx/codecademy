@@ -1,0 +1,19 @@
+body {
+    font-family: "Helvetica";
+}
+
+header {
+    background-image: url("../pattern.jpeg");
+    color: khaki;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.product_category > h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
